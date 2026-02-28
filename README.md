@@ -1,29 +1,11 @@
-# 📺 IPTV API M3U Documentation
+# 📺 API M3U Documentation
+
 
 <p align="center">
-  <a href="./README.pt.md">
-    <img src="https://img.shields.io/badge/🇧🇷-Português-green?style=for-the-badge">
-  </a>
-  <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge">
-  </a>
-  <a href="./README.es.md">
-    <img src="https://img.shields.io/badge/🇪🇸-Español-red?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
- <img src="https://s.zst.com.br/cms-assets/2024/01/controle-para-tv-capa.webp" alt="IPTV" width="100%">
+ <img src="https://www.cleo.com/sites/default/files/api-integration.png" alt="IPTV" width="100%">
 </p>
 
 ---
 
-## 🌍 Choose your language
-
-- 🇧🇷 [Português](./README.pt.md)
-- 🇺🇸 [English](./README.en.md)
-- 🇪🇸 [Español](./README.es.md)
-
----
 <p align="center"> <img src="https://img.shields.io/badge/STATUS-EDUCACIONAL-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/LICENÇA-INFORMATIVA-green?style=for-the-badge"> </p>
-© 2026 - IPTV API M3U Documentation
+© 2026 - API M3U Documentation

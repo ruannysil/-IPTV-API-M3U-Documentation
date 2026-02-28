@@ -75,21 +75,21 @@ http://YOUR_SERVER/player_api.php?username=USER&password=PASS&action=get_live_ca
 
 {
 "category_id": "456",
-"category_name": "COPINHA 2026 ⚽",
+"category_name": "(EXEMPLO)",
 "parent_id": 0
 
 },
 
 {
 "category_id": "4567",
-"category_name": "TODAY'S GAMES",
+"category_name": "(EXEMPLO)",
 "parent_id": 0
 
 },
 
 {
 "category_id": "45678", 
-"category_name": "PAY-PER-VIEW", 
+"category_name": "(EXEMPLO)", 
 "parent_id": 0 
 },
 ]
@@ -109,17 +109,17 @@ http://YOUR_SERVIDOR/player_api.php?username=USER&password=PASS&action=get_vod_c
 [ 
 { 
 "category_id": "123", 
-"category_name": "RELEASES 2026", 
+"category_name": "(EXEMPLO)", 
 "parent_id": 0 
 }, 
 { 
 "category_id": "1234", 
-"category_name": " RELEASES 2025", 
+"category_name": "(EXEMPLO)", 
 "parent_id": 0 
 }, 
 { 
 "category_id": "12345", 
-"category_name": "2024 RELEASES", 
+"category_name": "(EXEMPLO)", 
 "parent_id": 0 
 },
 ]
@@ -140,17 +140,17 @@ http://YOUR_SERVIDOR/player_api.php?username=USER&password=PASS&action=get_serie
 [ 
 { 
 "category_id": "789", 
-"category_name": "Anime ∤ Dubbed", 
+"category_name": "(EXEMPLO)", 
 "parent_id": 0 
 }, 
 { 
 "category_id": "78910", 
-"category_name": "Series ∤ Netflix", 
+"category_name": "(EXEMPLO)", 
 "parent_id": 0 
 }, 
 { 
 "category_id": "7891011", 
-"category_name": "Series ∤ Disney+", 
+"category_name": "(EXEMPLO)", 
 "parent_id": 0 
 },
 ]
@@ -232,7 +232,7 @@ http://YOUR_SERVIDOR/player_api.php?username=USER&password=PASS&action=get_serie
 [ 
 { 
 "num": 1, 
-"name": "SERIES", 
+"name": "(EXEMPLO)", 
 "series_id": 2, 
 "cover": "https://example.com", 
 "plot": "description series", 

@@ -1,8 +1,42 @@
 
-# 📺 IPTV API M3U Documentation
+# 📺 API M3U Documentation
 
-Documentação para consumo da API IPTV via Xtream Codes e Lista M3U.
+Documentação para consumo da API via Xtream Codes e Lista M3U.
+# 📺 Estudo Técnico de APIs de Streaming
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-EDUCACIONAL-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FIM-APENAS%20PARA%20ESTUDO-green?style=for-the-badge">
+</p>
+
+<p align="center">
+  <b>⚠️ AVISO LEGAL IMPORTANTE ⚠️</b><br>
+  Este material é EXCLUSIVAMENTE para fins educacionais e de estudo técnico.<br>
+  Não há vínculo com qualquer serviço comercial ou ilegal.<br>
+  Todos os dados são fictícios e servem apenas para demonstrar estruturas de API.
+</p>
+
+---
+
+## 📌 Sobre este Estudo
+
+Este repositório documenta **conceitos técnicos** de APIs de streaming, incluindo:
+
+- Estrutura de autenticação via API
+- Formatos de resposta JSON
+- Geração de listas M3U
+- Exemplos de código para estudo
+
+> 💡 **Nenhum conteúdo protegido é referenciado ou incentivado.**
+
+---
+
+## 🔐 Exemplo de Estrutura de Autenticação
+
+### URL de Exemplo (fictício)
+
+```bash
+http://api-exemplo.com/player_api.php?username=USUARIO_EXEMPLO&password=SENHA_EXEMPLO
 ---
 
 # 📌 Visão Geral

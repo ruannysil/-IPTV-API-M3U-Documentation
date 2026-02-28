@@ -1,5 +1,15 @@
 # 📺 Documentación de la API de IPTV M3U
-
+<p align="center">
+<a href="#-english">
+<img src="https://img.shields.io/badge/🇧🇷-Português-green?style=for-the-badge">
+</a>
+<a href="#-english">
+<img src="https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge">
+</a>
+<a href="#-español">
+<img src="https://img.shields.io/badge/🇪🇸-Español-red?style=for-the-badge">
+</a>
+</p>
 Documentación para usar la API de IPTV mediante códigos Xtream y la lista M3U.
 
 ---

@@ -1,10 +1,29 @@
-# 📺 Documentación de la API de IPTV M3U
+# 📺 Documentación de la API M3U
 
-Documentación para usar la API de IPTV mediante códigos Xtream y la lista M3U.
+Documentación para el uso de la API mediante códigos Xtream y listas M3U.
+
+# 📺 Estudio técnico de las API de streaming
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-EDUCACIONAL-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/FIM-APENAS%20PARA%20ESTUDO-green?style=for-the-badge">
+</p>
+
+<p align="center">
+
+<b>⚠️ AVISO LEGAL IMPORTANTE ⚠️</b><br>
+
+Este material es EXCLUSIVAMENTE para fines educativos y de estudio técnico.
+
+No existe ninguna conexión con ningún servicio comercial o ilegal.
+
+Todos los datos son ficticios y sirven únicamente para demostrar las estructuras de la API.
+
+</p>
 
 ---
 
-# 📌 Resumen
+## 📌 Acerca de este estudio
 
 Este proyecto proporciona acceso a transmisiones IPTV mediante:
 

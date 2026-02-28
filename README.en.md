@@ -152,7 +152,7 @@ The list can be used in:
 
 - VLC
 - Kodi
-- IPTV Smarters
+- Smarters
 - Web Players
 - Mobile Applications
 
@@ -211,4 +211,4 @@ getVod();
 
 ---
 
-© 2026 - IPTV API M3U Documentation
+© 2026 - API M3U Documentation

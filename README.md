@@ -12,6 +12,10 @@
   </a>
 </p>
 
+<p align="center">
+ <img src="https://s.zst.com.br/cms-assets/2024/01/controle-para-tv-capa.webp" alt="IPTV" width="100%">
+</p>
+
 ---
 
 ## 🌍 Choose your language
@@ -21,5 +25,9 @@
 - 🇪🇸 [Español](./README.es.md)
 
 ---
-
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/API-Xtream_Codes-orange?style=for-the-badge">
+</p>
 © 2026 - IPTV API M3U Documentation
